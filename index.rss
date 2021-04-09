@@ -1,1 +1,22 @@
-aaaa
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>心為根本</title>
+    <googleplay:author>大師望</googleplay:author>
+    <description>禪空轉劫伴病身，無裡還有果成因。哭笑是苦觀自在，生死向空法唯心。</description>
+    <googleplay:image href="https://wonderful-mirzakhani-50408e.netlify.app/cover.png"/>
+    <language>en-us</language>
+    <link>https://wonderful-mirzakhani-50408e.netlify.app</link>
+    <item>
+      <title>六字大明咒</title>
+      <description>一切有為法如夢、幻、泡、影，如露亦如電，應作如是觀。</description>
+      <pubDate>Fri, 10 April 2021/4/10 12:00:00 GMT</pubDate>
+      <enclosure url="https://wonderful-mirzakhani-50408e.netlify.app/six.mp3"
+                 type="audio/mpeg" length="1323008"/>
+      <itunes:duration>01:22</itunes:duration>
+      <guid isPermaLink="false">dm0000001</guid>
+    </item>
+  </channel>
+</rss>
