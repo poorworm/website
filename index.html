@@ -11,7 +11,9 @@
     
     <script>
         $(document).ready(function(){
-           // alert("test"); 
+           $.post("https://e2e1b370ec46.ngrok.io/weatherforecast", {}, function(ret){
+               alert(ret);
+           });
         });
     </script>
 </head>
