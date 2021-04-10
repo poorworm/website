@@ -11,7 +11,7 @@
     
     <script>
         $(document).ready(function(){
-           $.post("https://e2e1b370ec46.ngrok.io/weatherforecast", {}, function(ret){
+           $.get("https://e2e1b370ec46.ngrok.io/weatherforecast", function(ret){
                alert(ret);
            });
         });
